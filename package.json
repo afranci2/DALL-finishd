@@ -5,7 +5,9 @@
   
 
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "build": "vite build",
+    "preview": "vite preview"
   }
+
 
 }

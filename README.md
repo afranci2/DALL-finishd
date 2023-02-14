@@ -11,8 +11,6 @@ Link to project: www.pixel-bloom.com
 
 ![App Screenshot](https://monte-assets.s3.amazonaws.com/project-images/PixelBloom/Screenshot+2023-02-14+at+6.21.40+PM.png)
 
-![App Screenshot](https://monte-assets.s3.amazonaws.com/project-images/PixelBloom/Screenshot+2023-02-14+at+6.21.47+PM.png)
-
 
 ## Tech Stack
 

@@ -5,6 +5,12 @@
   text-align: center;
 }
 
+.logoattop{
+  height:auto;
+  width:300px;
+  margin: auto;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

@@ -40,6 +40,7 @@ We then needed to add next js for seo purposes and faster first contentful paint
 ## Optimizations
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+TODO: make ai key private in production and fix api call
 
 This is part two of this project. These are the optimizations
 ## Lessons Learned

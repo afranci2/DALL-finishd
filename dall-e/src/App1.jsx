@@ -14,7 +14,7 @@ const App1 = () => {
         <p>
           Transform your website or app with AI-generated images that perfectly
           match your brand and aesthetic! Create stunning UI templates that will
-          take your design to the next level.
+          take your design to the next level. 
         </p>
         <Link to="/image">
           <button>Start Now!</button>

@@ -16,10 +16,10 @@ Link to project: www.pixel-bloom.com
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Javascript, React, ReactRouter 
+**Client:** HTML, CSS, Javascript, React, ReactRouter
 
 
-Created static site using HTML and CS
+Created static site using HTML and CSS
 Called in this  year to add functionality and redesign and backend admin with team
 Created a website for non profit religious organizations to track different churches around the globe for visitors to learn. Made in React with Tailwind and Node and Express and Next js.  Add payment processing for transactions only and accepted donations through third parties and provided GPS tracking and church search. Responsive as well with embed live stream
 

@@ -25,11 +25,11 @@ function App() {
   return (
     <div className="app-main">
       <>
-        <h2>Generate an Image using Open AI API</h2>
+        <h2>Generate a UI design using Open AI API</h2>
 
         <textarea
           className="app-input"
-          placeholder="Search Bears with Paint Brushes the Starry Night, painted by Vincent Van Gogh.."
+          placeholder="Search 'Modern and Simple Website UI design in the style of Apple...'"
           onChange={(e) => setPrompt(e.target.value)}
           rows="10"
           cols="40"

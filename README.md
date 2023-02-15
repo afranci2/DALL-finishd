@@ -22,6 +22,7 @@ Link to project: www.pixel-bloom.com
 ## Optimizations
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+TODO: make ai key private in production and fix api call
 
 
 
